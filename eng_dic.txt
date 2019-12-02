@@ -1,0 +1,1800 @@
+world	명. 세계, 세상	1
+way	명. 길, 방법	1
+very	부. 매우	1
+today	명. 오늘(날) / 부. 오늘(은), 최근에는	1
+time	명. 시간, 시각	1
+this	대. 이것, 이 사람  /  형. 이	1
+thing	명. 물건, 일, 것	1
+there	부. 그곳에, 거기에	1
+the	정관사. 그	1
+that	대. 저것, 저 사람  / 형. 저	1
+some	대. 일부 사람(것)들 / 형. 어떤, 얼마간의	1
+school	명. 학교	1
+say	동. 말하다	1
+people	명. 사람들, 민족, 국민	1
+name	명. 이름 / 동. 이름을 붙이다	1
+much	형. (양이)많은 / 부. 크게, 매우, 훨씬	1
+mother	명. 어머니	1
+morning	명. 아침, 오전	1
+many	형. (수가)많은 / 명. 다수의 사람(것)	1
+man	명. 남자, 사람	1
+like	동. 좋아하다, 바라다	1
+lesson	명. (교과서의) 과, 수업, 교훈	1
+house	명. 집	1
+home	명. 자기 집, 가정 / 부. 자기 집에	1
+have	동. 가지고 있다, 먹다, ~하게 하다	1
+good	형. 좋은, 잘하는	1
+father	명. 아버지	1
+dialog	명. 대화	2
+day	명. 낮, 하루, 날	2
+all	대. 모두   / 형. 모든	2
+big	형. 큰	2
+birthday	명. 생일	2
+
+
+book	명. 책	2
+brother	명. 남자 형제	2
+child	명. 어린이, 자식	2
+city	명. 도시	2
+do	동. ~하다	2
+dog	명. 개	2
+earth	명. 지구, 땅, 흙	2
+farmer	명. 농부	2
+food	명. 식량, 먹을 것, 식품	2
+future	명. 미래, 장래 / 형. 미래의	2
+game	명. 게임, 경기	2
+happy	형. 행복한, 기쁜	2
+help	동. 돕다 / 명. 도움	2
+know	동. 알다	2
+life	명. 생명, 인생, 생활	2
+look	명. 보다, ~처럼 보이다 	2
+love	명. 사랑 / 동. 사랑하다	2
+nice	형. 좋은, 멋진, 친절한	3
+night	명. 밤   / 형. 밤의	3
+place	명. 장소	3
+room	명. 방, 공간	3
+sea	명. 바다	3
+student	명. 학생	3
+sun	명. 태양, 햇빛	3
+tomorrow	명. 내일	3
+up	부. 위로, 위의	3
+well	부. 잘 / 명. 우물	3
+woman	명. 여자, 여성	3
+afternoon	명. 오후	3
+also	부. 또한	3
+animal	명. 동물	3
+any	형. 어떤 / 대명사. 어떤 것(사람)	3
+bus	명. 버스	3
+computer	명. 컴퓨터	3
+different	형. 다른	3
+dinner	명. 저녁 식사	3
+down	부. 아래로	3
+fish	명. 물고기 / 동. 낚시하다	3
+fun	명. 장난, 재미	3
+girl	명. 소녀	3
+hand	명. 손     /   동. 건네주다	3
+hard	형. 힘든, 굳은 / 부. 열심히	4
+job	명. 일, 직업	4
+letter	명. 편지, 글자, 문자	4
+lunch	명. 점심 식사	4
+make	동. 만들다, 시키다	4
+music	명. 음악	4
+picture	명. 그림, 사진	4
+question	명. 물음, 의문, 문제	4
+really	부. 정말로	4
+sport	명. 스포츠, 운동	4
+street	명. 거리, 도로	4
+tell	동. 말하다	4
+watch	명. 손목시계   / 동. 지켜보다	4
+weather	명. 날씨	4
+week	명. 주, 주간	4
+work	동. 일하다, 공부하다 / 명. 일, 작품	4
+you	대명사. 너는, 너희들은, 너를, 너희들을	4
+always	부. 늘, 언제나	4
+answer	명. 대답  / 동. 대답하다	4
+ask	동. 요청하다, 부탁하다	4
+away	부. 떨어져, 떠나서	4
+baseball	명. 야구	4
+bed	명. 침대	5
+brown	형. 갈색의  / 명. 갈색	5
+course	명. 진행, 진로, 코스  * of course 물론	5
+each	형. 각각의 / 대명사. 각각	5
+evening	명. 저녁	5
+farm	명. 농장	5
+fine	형. 좋은, 훌륭한 / 명. 벌금	5
+give	동. 주다	5
+grandfather	명. 할아버지	5
+homework	명. 숙제	5
+keep	동. 보존하다, 유지하다, 계속하다	5
+mountain	명. 산	5
+park	명. 공원  / 동. 주차하다	5
+pen	명. 펜	5
+prince	명. 왕자	5
+problem	명. 문제	5
+river	명. 강	5
+rule	명. 규칙, 지배 / 동. 지배하다	5
+summer	명. 여름	5
+table	명. 탁자	5
+tennis	명. 테니스	5
+tree	명. 나무	5
+uncle	명. 아저씨, 삼촌, 고모부, 이보무, 숙부	5
+we	대명사. 우리가, 우리는	5
+wife	명. 아내	5
+town	명. 마을(village보다 크고 city보다 작은)	5
+Sunday	명. 일요일	5
+south	명. 남(쪽)  /  형. 남쪽의	6
+song	명. 노래	6
+sky	명. 하늘	6
+Saturday	명. 토요일	6
+run	동. 달리다, 운영하다	6
+party	명. 파티, 모임	6
+oneself	대명사. 자기 자신, 자기 스스로	6
+once	부. 한번, 이전에 / 접속사. 일단 ~하면	6
+number	명. 수, 번호  * a number of  (수가)많은	6
+newspaper	명. 신문	6
+mouse	명. 쥐  (복수형 mice)	6
+land	명.  육지, 땅, 나라 / 동. 착륙하다	6
+hour	명. (한) 시간, 시	6
+hot	형. 뜨거운, 더운, 매운	6
+history	명. 역사	6
+high	형. 높은, 비싼  /  부. 높이	6
+hear	동. 듣다	6
+gold	명. 금  /  형. 금으로 만든	6
+glad	형. 기쁜	6
+flower	명. 꽃	6
+even	부. ~조차, (비교급 강조) 더욱, 훨씬	6
+donkey	명. 당나귀	6
+change	동. 바꾸다  / 명. 변화, 거스름돈	7
+building	명. 빌딩, 건물	7
+bike	명. 자전거 (=bicycle)	7
+become	동. ~이 되다	7
+baby	명. 갓난 아이, 아기	7
+white	형. 흰(색의) / 명. 흰색	7
+waste	명. 쓰레기, 낭비 / 동. 낭비하다	7
+tower	명. 탑, 타워	7
+team	명. 팀, 조	7
+store	명. 가게, 상점	7
+stone	명. 돌  /  형. 돌의	7
+still	형. 조용한 / 부. 여전히	7
+shoe	명. 구두, 신발	7
+season	명. 계절, 철	7
+race	명. 경기, 인종, 종족 / 동. 경주하다	7
+pollution	명. 오염	7
+piece	명. 조각	7
+mind	명. 마음 / 동. 주의하다,신경쓰다,꺼리다	7
+maybe	부. 어쩌면, 아마(도)	8
+matter	명. 문제, 물질 / 동. 중요하다	8
+manner	명. 태도, 방법  * manners 예의범절	8
+line	명. 선, 줄 (글자의)행 / 동. 줄을 서다	8
+few	형. 거의 없는   * a few 소수의, 몇 개의	8
+everbody	명. 누구나, 모두	8
+driver	명. 운전하는 사람	8
+dress	명. 옷, 드레스 / 동. 옷을 입히다	8
+desk	명. 책상	8
+daughter	명. 딸	8
+clean	형. 깨끗한 / 동. 청소하다, 깨끗이 하다	8
+call	동. 부르다,전화하다 / 명. 부름,전화걸기	8
+cake	명. 케이크	8
+buy	동. 구입하다, 사다	8
+ball	명. 공	8
+bag	명. 가방	8
+ago	부. ~전에	8
+will	조동사. ~할 것이다	8
+war	명. 전쟁	8
+tall	형. 키가 큰	8
+ship 	명.  배	8
+sad	형. 슬픈	8
+rice	명. 쌀, 벼	8
+nature	명. 자연, 천성	8
+month	명. (달력의) 달, 월	8
+library	명. 도서관	8
+leaf	명. 잎	8
+kitchen	명. 부엌	8
+however	부. 그러나, 아무리 ~해도	8
+health	명. 건강	9
+head	명. 머리	9
+grandparent	명. 조부모	9
+grandmother	명. 할머니	9
+gesture	명. 몸짓, 제스쳐	9
+fire	명. 불, 화재	9
+feel	명. 느끼다	9
+fast	형. 빠른, 단단한 / 부. 빨리, 단단히	9
+end	명. 끝 / 동. 끝내다	9
+color	명. 색, 빛깔	9
+cat	명. 고양이	9
+card	명. 카드	9
+breakfast 	명. 아침식사	9
+believe	동. 믿다, ~라고 생각하다	9
+begin	명. 시작하다	9
+basketball	명. 농구, 농구공	9
+apple	명. 사과	9
+already	부. 이미, 벌써	9
+alphabet	명. 알파벳, 자음모음	9
+bring	동. 가져오다, 데려오다	9
+chance	명. 기회, 가망	9
+cross	동. 건나다, 교차시키다 / 명. 십자가	9
+custom	명. 관습, 풍속	9
+floor	명. 바닥, (건물의)층	10
+garden	명. 뜰, 정원	10
+glass	명. 유리, 유리컵     * glasses 안경	10
+god	명. 신, 조물주, (God 교회의 하느님)	10
+hammer	명. 망치	10
+hotel	명. 호텔	10
+may	조동사. ~해도 좋다, ~일지도 모른다	10
+milk	명. 우유	10
+nail	명. 손톱, 발톱, 못	10
+noise	명. 소음, 시끄러운 소리	10
+officer	명. 장교, 공무원, 순경	10
+phone	명. 전화(기) / 동. 전화를 걸다	10
+police	명. 경찰	10
+poor	형. 가난한, 불쌍한, 서투른	10
+rather	부. 오히려, 다소	10
+ready	형. 준비된	10
+red	형. 붉은, 빨간색의 / 명. 빨강	10
+size	명. 크기, 치수, 사이즈	10
+smile	동. 미소짓다 / 명. 미소	10
+someday	부. (미래의)언젠가	10
+traffic	명. 교통(량)	10
+treasure	명. 보물	11
+turn	동. 돌(리)다, ~이 되다 / 명. 회전, 차례	11
+visit	동. 방문하다 / 명. 방문	11
+waiter	명. 웨이터, 시중드는 사람	11
+truth	명. 진실, 진리	11
+trouble	명. 곤란, 걱정(거리) / 동. 괴롭히다	11
+top	명. 꼭대기, 정상, 팽이 / 형. 최고의	11
+tea	명. (마시는)차	11
+station	명. 역, 정거장, 부서	11
+sit	동. 앉다	11
+scientist	명. 과학자	11
+road	명. 길, 도로	11
+practice	명. 연습, 실행  / 동. 연습(실행)하다	11
+picnic	명. 소풍	11
+ought to	조동사. ~해야 한다, ~임에 틀림없다	11
+moment	명. 순간, 때	11
+meal	명. 식사	11
+lose	동. 잃다, 지다	11
+ice	명. 얼음, (영국)아이스크림	11
+holiday	명. 휴일	11
+half	명. 절반 / 대. 반 / 형. 반의 / 부. 반쯤	11
+grow	동. 자라다, 기르다, ~이 되다	11
+glory	명. 영광	11
+fruit	명. 과일	12
+football	명. 축구	12
+favorite	형. 가장 좋아하는 / 명. 좋아하는 것	12
+fall	명. 가을, 폭포 / 동. 떨어지다, 해당해다	12
+egg	명. 계란, 달걀	12
+dirty	형. 더러운	12
+difficult	형. 어려운	12
+carefully	부. 주의 깊게	12
+box	명. 상자	12
+bear	동. 낳다, 견디다 / 명. 곰	12
+airplane	명. 비행기	12
+and	접속사. 그리고	12
+bread	명. 빵	12
+bridge	명. (건너는) 다리	12
+capital	명. 수도, 대문자, 자본 / 형. 주요한	12
+dinosaur	명. 공룡	12
+doll	명. 인형	12
+drink	동. 마시다 / 명. 마실 것, 음료(수)	12
+energy	명. 에너지, 정력, 힘	12
+fact	명. 사실 * in fact 사실은	12
+foot	명. 발 (복수형 feet)	12
+gas	명. 가스, (미국)휘발류 * gasoline	12
+habit	명. 습관	12
+hair	명. 머리카락, 털	13
+machine	명. 기계	13
+marathon	명. 마라톤	13
+Monday	명. 월요일	13
+piano	명. 피아노	13
+plan	명. 계획 / 동. 계획하다	13
+program	명. 프로그램, 진행 순서, 계획	13
+quite	부. 아주, 꽤	13
+rock	명. 바위 / 동. 흔들다	13
+rope	명. 로프, 밧줄, 끈	13
+safe	형. 안전한	13
+sale	명. 판매, 할인 판매	13
+sleep	동. 자다 / 명. 잠	13
+soup	명. 수프	13
+strange	형. 이상한, 낯선	13
+teach	동. 가르치다	13
+wear	동. 입다, 신다, 쓰다 / 명. 착용, 의복	13
+wise	형. 슬기로운, 현명한	13
+able	형. ~할수 있는	13
+advice	명. 충고	13
+ancestor	명. 조상, 선조	13
+black	형. 검은 / 명. 검정(색)	13
+captain	명. 장(長), 우두머리, 선장, 대위	13
+classroom	명. 교실	13
+coffee	명. 커피	13
+decide	동. 결정하다, 결심하다	13
+fan	명. 부채, 선풍기, 팬, ~광	14
+foreigner	명. 외국인	14
+guess	동. 추측하다, 알아맞히다 / 명. 추측	14
+happen	동. (일, 사건등이 )발생하다, 	14
+heat	명. 열, 더위 / 동. 가열하다	14
+join	동. 결합하다, 참가하다	14
+juice	명. 주스	14
+lately	부. 요즈음, 최근에	14
+million	명. 100만 / 형. 100만의	14
+neither	대명사/형용사/부사. 둘 다~가 아니다	14
+offer	동. 제공(제의)하다 / 명. 제공, 제의	14
+order	명. 순서, 질서, 주문, 명령 / 동.명령하다	14
+paint	명. 페인트, 그림물감 / 동. 그리다	14
+plant	명. 식물, 공장 (설비) / 동. 심다	14
+quiet	형. 조용한	14
+rest	명. 휴식 / 동. 쉬다	14
+seat	명. 좌석, 자리 / 동. 앉히다	14
+spaceship	명. 우주선	14
+system	명. 시스템, 체계	14
+travel	동. 여행하다, 이동하다 / 명. 여행	14
+voice	명. 목소리	14
+weekend	명. 주말	15
+visitor	명. 방문객	15
+victory	명. 승리	15
+unification	명. 통일, 단일화	15
+thousand	명. 1,000 / 형. 1000의	15
+television	명. 텔레비전,  TV	15
+speaker	명. 말하는 사람, 연설자, 스피커	15
+set	동. 놓다, 세우다 / 명. 세트, 한벌(짝)	15
+sense	명. 감각, 분별, 의미	15
+saying	명. 속담, 말하기	15
+restaurant	명. 식당, 레스토랑	15
+reason	명. 이유, 이성	15
+proverb	명. 속담, 격언	15
+pole	명. 막대기, 장대, (천체 혹은 지구의)극	15
+pleasant	형. 즐거운, 유쾌한	15
+pardon	동. 용서하다 / 명. 용서	15
+national	형. 국가의, 국민의	15
+hill	명. 언덕	15
+healthy	형. 건강한, 건강에 좋은	15
+gate	명. 문, 출입문, (공항의)탑승구	15
+garage	명. 차고, (자동차)수리 공장	15
+factory	명.공장	15
+especially	부. 특히	15
+cry	동. 부르(울부)짖다 / 명. 고함, 울음소리	15
+close	동. 닫다 / 형. 가까운 / 부. 가까이에	15
+can	캔, 금속제 용기	15
+camera	명. 카메라	15
+business	명. 사업, 일, 기업	15
+bottle	명. 병 / 동. 병에 담다	15
+because	접속사.  ~때문에	15
+admiral	명. 해군, 대장	15
+arrive	동. 도착하다	15
+beach	명. 바닷가, 물가	15
+before	접속사. ~하기 전에 / 전치사. ~전에	15
+boat	명. 배, 보트	15
+clerk	명. 사무원, 판매원	15
+dark	형. 어두운, 캄캄한	15
+difference	명. 다른, 차이점	15
+fight	명. 싸움 / 동. 싸우다	15
+gentleman	명. 신사	15
+goal	명. 목표, 목적, 골	15
+ground	명. 땅, 운동장	15
+hamburger	명. 햄버거	15
+hero	명. 영웅	15
+hit	동. 때리다, 치다 / 명. 쳐서 맞힘, 히트	15
+horse	명. 말	15
+kingdom	명. 왕국	16
+leg	명. (신체의)다리	16
+meaning	명. 의미	16
+recreation	명. 휴양, 레크리에이션	16
+rich	형. 부유한, 풍부한	16
+simple	형. 단순한, 검소한	16
+slowly	부.천천히	16
+solve	동. 풀다, 해결하다	16
+speech	명. 말, 연설	16
+spirit	명. 정신, 영혼, 활기	16
+step	명. 걸음(걸이), 단계, 계단 / 동. 걷다	16
+temperature	명. 온도, 기온, 체온	16
+thief	명. 도둑	16
+waitress	명. 웨이트레스	16
+Wednesday	명. 수요일	16
+age	명. 나이, 시대	16
+artist	명. 예술가	16
+badly	부. 틀리게, 나쁘게, 몹시	16
+button	명. 버튼, 단추	16
+celebrate	동. 축하하다	16
+chair	명. 의자	16
+cheese	명. 치즈	16
+circle	명. 원, 집단 / 동. 둘레를 돌다	16
+death	명. 죽음	16
+friendly	형. 친한, 친절한	16
+if	접속사. 만약~이라면, ~인지(아닌지)	16
+jump	동. 뛰다, 뛰어오르다 / 명. 점프, 뜀	16
+monkey	명. 원숭이	16
+pair	명. 한 쌍, 한 벌	16
+planet	명. 행성	16
+pleasure	명. 기쁨, 즐거움	16
+poem	명. 시	16
+pollute	동. 오염시키다	16
+postcard	명. 우편엽서	16
+public	형. 공공의, 공적인 / 명. 대중	16
+queen	명. 여왕, 왕비	16
+real	형. 진짜의, 현실의	16
+rocket	명. 로켓	16
+serious	형. 진지한, 중대한, 심각한	16
+square	명. 정사각형, 광장, 제곱 / 형, 사각형의	16
+stranger	명. 낯선 사람, 이방인	16
+subject	명. 과목, 주제, 주어	16
+university	명. 종합 대학	16
+worker	명. 일하는 사람, 노동자	16
+zoo	명. 동물원	16
+wrap	동. (감)싸다, 두르다 / 명. 싸개	16
+violin	명. 바이올린	17
+throw	동. 던지다	17
+though	접속사. ~이지만, 비록 ~일지라도	17
+symbol	명. 상징, 기호	17
+sweater	명. 스웨터	17
+success	명. 성공	17
+straw	명. (밀)짚, 빨대	17
+star	명. 별, 스타, 인기있는 사람	17
+smart	형. 영리한, 말쑥한	17
+shy	형. 수줍은, 부끄럼 타는	17
+shine	동. 빛나다	17
+shape	명. 모양, 모습	17
+salesman	명. 판매원	17
+round	형. 둥근, 왕복의 / 부. 돌아서, ~을돌아	17
+robot	명. 로봇	17
+respect	명. 존경, 존중 / 동. 존경(존중)하다	17
+nurse	명. 간호사	17
+noon	명. 정오	17
+narrator	명. 나레이터, 이야기하는 사람	17
+musician	명. 음악가	17
+March	명. 3월	17
+group	명. 무리, 집단, 그룹	17
+grass	명. 풀(밭), 잔디	17
+fox	명. 여우	17
+forest	명. 숲	17
+flag	명. 깃발	17
+finger	명. 손가락	17
+fairy	명. 요정	17
+brightly	부. 밝게	17
+congratulation	명. 축하	17
+cost	명. 비용, 대가 / 동. (비용이)들다	17
+count	동. 세다, 계산하다 / 명. 셈, 계산	17
+couple	명. 한 쌍, 부부 * a couple of 몇개(명)의	17
+date	명. 날짜, 데이트	17
+December	명. 12월	17
+discuss	동. 토론하다, 토의하다	17
+dish	명. 접시, 요리	17
+diver	명. 잠수부	17
+dury	동. 파묻다	17
+experiment	명. 실험 / 동. 실험하다	17
+explain	동. 설명하다	17
+figure	명. 숫자, 모양, 인물, 그림 / 동.계산하다	17
+flesh	명. (사람, 짐승의) 살, 고기, 육체	17
+fork	명. 포크	17
+gift	명. 선물, 타고난 재능	17
+glove	명. 장갑	17
+greenhouse	명. 온실	18
+headache	명. 두통	18
+huge	형. 거대한	18
+impossible	형. 불가능한	18
+island	명. 섬	18
+lake	명. 호수	18
+note	명. 기록, 짧은편지 	18
+notebook	명. 노트, 공책	18
+orange 	명.오렌지	18
+palm 	명. 손바닥, 야자	18
+rainy	형. 비가 오는	18
+recently	부. 요즈음, 최근에	18
+who	의문사. 누구, 어느(어떤)사람	18
+attention	명. 두의, 주목	18
+balloon	명. 기구, 풍선	18
+bit	명. 작은 조각, 조금	18
+blackboard	명. 칠판	18
+blood	명. 피, 혈액	18
+bottom	명. 밑바닥	18
+bow	동. 절하다, 인사하다 / 명. 활	18
+bowl	명. 사발	18
+butter	명. 버터	18
+candy	명. 사탕	18
+ceremony	명. 식, 의식	18
+cloud	명. 구름	18
+college	명. 단과 대학	18
+cookie	명. 쿠키, 과자	18
+courage	명. 용기	18
+coward	명. 겁쟁이	18
+danger	명. 위험	18
+direction	명. 방향, 지시	18
+easily	부. 쉽게	18
+economy	명. 경제, 절약	18
+engineer	명. 기사, 공학자, 기술자	18
+eve	명. 전날 밤, 전날	18
+event	명. 사건, 행사	18
+hate	동. 미워하다, 증오하다	18
+international	형. 국제의	18
+invent	동. 발명하다	18
+lazy	형. 게으른	18
+lucky	형. 행운의, 운좋은	18
+smoke	명. 연기 / 동. 연기를 내다, 담배피우다	18
+when	의문사. 언제, ~인 때	18
+absent	형. 결석한, 없는	18
+acid	형. 신맛이 나는, 산성의 / 명. 산	18
+army	명. 군대, 육군	18
+bank	명. 은행, 둑	19
+blouse	명. 블라우스	19
+chairman	명. 의장	19
+coast	명. 해안, 연안	19
+company	명. 회사, 친구	19
+concert	명. 음악회, 연주회	19
+contest	명. 경쟁, 경연 / 동. 겨루다	19
+cover	명. 덥개 / 동. 덥다, (범위를)맏다	19
+dig	동. 파다	19
+fail	동. 실패하다	19
+honor	명. 명예, 경의 / 동. 경의를 표하다	19
+kid	명. 아니 / 동. 놀리다, 농담하다	19
+lie	명. 거짓말 / 동. 거짓말하다, 눕다	19
+medicine	명. 약, 의학	19
+midnight	명. 한밤중, 자정	19
+playground	명. 운동장, 놀이터	19
+pocket	명. 호주머니	19
+prison	명. 감옥, 교도소	19
+quietly	형. 조용히	19
+sight	명. 봄. 시력, 광경	19
+singer	명. 가수	19
+sunlight	명. 햇빛	19
+thought	명. 생각, 사고	19
+type	명. 유형, 종류, 전형	19
+western	형. 서쪽의, 서양의	19
+wh-ever	명사절: ~든지 / 부사절: 아무리~일지라도	19
+wood	명. 나무, 목재, 숲	19
+abroad	부. 외국으로(에), 국외로	19
+at	전치사. ~에, ~에서	19
+bite	동. 물다 / 명. 묾, 한 입	19
+blind	형. 눈먼, 장님의	19
+blow	동. (바람이)불다 / 명. 강타, 타격	19
+cheer	동. 기운을 복돋우다, 응원하다 / 명. 환호, 격려	19
+cow	명. 암소, 젖소	19
+enemy	명. 적	19
+express	동. 표현하다 / 명. 속달, 급행열차 / 형. 급행의	19
+guest	명. 손님	19
+happiness	명. 행복	19
+heaven	명. 천국, 하늘	19
+hen	명. 암탉	19
+husband	명. 남편	19
+joy	명. 기쁨	19
+market	명. 시장	19
+May	명. 5월	19
+memory	명. 기억, 추억, 기념	19
+mistake	명. 실수 / 동. 실수하다, 잘못 판단하다	19
+passport	명. 여권	20
+pigeon	명. 비둘기	20
+poster	명. 포스터, 벽보	20
+power	명. 힘, 권력	20
+price	명. 값, 가격, 대가	20
+pride	명. 자존심, 자랑거리	20
+prize	명. 상, 상품	20
+roof	명. 지붕	20
+service	명. 봉사, 서비스	20
+successful	형. 성공한	20
+tiny	형. 작은, 조그마한	20
+amusement	명. 즐거움, 재미, 오락	20
+apartment	명. 아파트	20
+area	명.지역, 범위, 면적	20
+band	명. 밴드, 끈, 악단	20
+bean	명. 콩	20
+blanket	명. 담요	20
+block	명. 블록, 구획 / 동. 막다, 방해하다	20
+boring	형. 지루한, 따분한	20
+brain	명. 두뇌, 뇌	20
+cage	명. 새장, 우리	20
+calendar	명. 달력	20
+Capitol	명. 미국 국회 의사당	20
+chicken	명. 닭고기, 닭	20
+coach	명. 코치, 합승 버스 / 동. 지도하다	20
+collection	명. 수집, 수집물	20
+cough	명. 기침 / 동. 기침하다	20
+counselor	명. 카운셀러, 상담원	20
+crosswalk	명. 횡단보도	20
+crowd	명. 군중	20
+crown	명. 왕관	20
+for	전치사. ~를 위하여, ~동안	20
+freely	부. 자유롭게, 무료로	20
+hunt	동. 사냥하다 / 명. 사냥	20
+lead	동. 이끌다, 이르다 / 명. 선두	20
+lift	동. 올리다, 올라가다 / 명. 올리기, 승강기	20
+social	형. 사회적인, 사교적인	20
+underwater	형. 수중의, 물속의 / 명. 물속	20
+villager	명. 마을 사람	20
+wave	명. 파도 / 동. 흔들리다, 물결치다	20
+wing	명. 날개	20
+surely	부. 확실히, 꼭	20
+setting	명. 무대 장치, 배경	20
+servant	명. 하인	20
+screen	명. 스크린, 화면	20
+rainbow	명. 무지개	20
+population	명. 인구	21
+pool	명. (수영장의)풀, 웅덩이	21
+pilot	명. 파일럿, 비행기 조종사	21
+peninsula	명. 반도	21
+ox	명. 황소	21
+opinion	명. 의견, 견해, 여론	21
+oil	명. 기름, 석유	21
+of	전치사. ~의, ~중의	21
+myth	명. 신화	21
+mercy	명. 자비	21
+meat	명. (식용의)고기	21
+Mars	명. 화성	21
+mail	명. 우편(물) / 동. 우편으로 보내다	21
+magic	명. 마술 / 형. 마술의, 신기한	21
+lip	명. 입술	21
+lawyer	명. 변호사	21
+journalism	명. 언론(계)	21
+joke	명. 농담 / 동. 농담하다	21
+handicapped	형. 장애가 있는	21
+frog	명. 개구리	21
+fantastic	형. 환상적인	21
+equal	형. 같은, 동등한	21
+allow	동. 허락하다	21
+advise	동. 충고하다, 조언하다	21
+add	동. 더하다, 덧붙여 말하다	21
+worth	형. 가치가 있는 / 명. 가치	21
+without	전치사. ~없이, ~함 없이	21
+pond	명. 연못	21
+hardly	부. 거의 ~않다	21
+develop	동. 발달시키다, 개발하다, 발전하다	21
+depend	동. 의존하다, ~에 달려있다	21
+continue	동. 계속하다	21
+citizen	명. 시민	21
+church	명. 교회	21
+chimney	명. 굴뚝	21
+champion	명. 챔피언, 우승자	21
+case	명. 경우, 케이스	21
+carpenter	명. 목수	21
+candle	명. 양초	21
+cafeteria	명. 카페테리아, 간이 식당	21
+butterfly	명. 나비	21
+businessman	명. 사업가, 실업가	21
+bride	명. 신부	21
+brick	명. 벽돌	21
+bell	명. 종, 종소리	21
+badminton	명. 배드민턴	21
+automobile	명. 자동차	22
+attendant	명. 시중드는 사람, (항공기) 승무원	22
+athlete	명. 운동선수	22
+anxious	형. 걱정하는, 열망하는	22
+anthem	명. 성가, 찬송가	22
+ancient	형. 고대의, 옛날의	22
+amount	명. 양, 총계 / 동. ~이 되다	22
+album	명. 앨범, 사진첩	22
+ability	명. 능력	22
+proudly	부. 자랑스럽게	22
+protect	동. 보호하다	22
+produce	동. 생산하다, 제작하다	22
+path	명. 작은 길, 오솔길, 통로	22
+over	전치사. ~위에, ~이상	22
+nest	명. 둥지, 보금자리	22
+monument	명. 기념비, 기념탑, 기념물	22
+minister	명. 목사, 장관	22
+merchant	명. 상인	22
+melt	동. 녹다, 녹이다	22
+mask	명. 가면, 탈, 마스크	22
+marriage	명. 결혼, 혼인	22
+mailbox	명. 우편함, 우체통	22
+liberty	명. 자유	22
+laughter	명. 웃음, 웃음소리	22
+key	명. 열쇠 / 형. 중요한	22
+justice	명. 정의	22
+jean	명. 청바지	22
+invitation	명. 초대	22
+instance	명. 예, 보기 * for instance예를 들면	22
+industry	명. 공업, 산업, 근면	22
+immigrant	명. 이민자	22
+ill	형. 병든, (도덕적으로)나쁜	22
+hunger	명. 배고품, 굶주림	22
+gym	명. 체육관(=gymnasium), 체육(=gymnastics)	22
+gray	형. 회색의, 백발이 섞인 / 명. 회색	22
+grave	명. 무덤	22
+goods	명. 상품, 물품	22
+fireman	명. 소방수	22
+excellent	형. 우수한, 뛰어난	22
+wake	동. 깨다, 깨우다	22
+trash	명. 쓰레기	22
+tragedy	명. 비극	22
+topic	명. 화제, 주제	22
+tongue	명. 혀, 말	22
+textbook	명. 교과서	22
+surface	명. 표면 / 형. 표면의, 피상적인	22
+sunrise	명. 해돋이, 동틀녘	23
+strictly	부. 엄격히	23
+spectator	명. 구경꾼, 관객	23
+source	명. 원천, 근원, 출처	23
+smog	명. 스모그 (smoke + fog의 합성어)	23
+skill	명. 솜씨, 기능, 기술	23
+sightseeing	명. 관광	23
+sharp	형. 날카로운, 가파른	23
+shame	명. 부끄러움, 수치	23
+selfish	형. 이기적인	23
+seed	명. 씨앗	23
+score	명. 점수, 득점 / 동. 득점하다	23
+sandwich	명. 샌드위치	23
+salty	형. 짠, 소금기 있는	23
+rose	명. 장미	23
+result	명. 결과 / 동. 결과로 생기다	23
+reservation	명. 예약	23
+record	동. 기록하다, 녹음(녹화)하다 / 명. 기록, 성적	23
+rat	명. 쥐	23
+rabbit	명. 토끼	23
+below	전치사. ~보다 아래에, ~이하에	23
+arrest	동. 체포하다 / 명. 체포	23
+apply	동. 적용하다, 지원하다	23
+classical	형. 고전의, 고전적인	23
+clap	동. (손뼉을) 치다	23
+chew	동. 씹다	23
+cheap	형. 싼	23
+chalk	명. 분필	23
+chain	명. 쇠사슬, 연쇄(점)	23
+central	형. 중심의	23
+cartoon	명. 만화, 만화영화	23
+cap	명. (야구)모자, 뚜껑	23
+campaign	명. 캠페인, 운동	23
+bush	명. 관목, 덤불, 수풀	23
+burden	명. 무거운 짐, 부담 / 동. 짐을 지우다	23
+bubble	명. 거품 / 동. 거품이 일다	23
+bore	동. 지루하게 하다  * bored 지루한	23
+border	명. 가장자리, 경계, 국경	23
+bookstore	명. 서점	23
+biography	명. 전기, 일대기	23
+besides	부. 게다가, 그 밖에 / 전치사. ~외에도	23
+bench	명. 벤치, 긴 의자(2인용이상)	23
+belt	명. 벨트, 띠	23
+beef	명. 쇠고기	23
+bedroom	명. 침실	23
+beauty	명. 아름다움, 미인	23
+bath	명. 목욕	24
+basket	명. 바구니	24
+base	명. 기초, (야구)베이스	24
+Atlantic	명. 대서양 / 형. 대서양의	24
+around	전치사. ~의 주위에	24
+April	명. 4월	24
+advance	동. 전진시키다, 나아가다 / 명. 전진	24
+fog	명. 안개	24
+female	명. 여성, 암컷 / 형. 여성의, 암컷의	24
+fellow	명. 사람, 동료 / 형. 동료의	24
+fault	명. 잘못, 결점	24
+faint	형. 희미한, 어질어질한 / 동. 기절하다 / 명. 졸도	24
+experience	명. 경험 / 동. 경험하다	24
+equipment	명. 장비, 설비	24
+entrance	명. 입구, 들어감	24
+engine	명. 엔진, 기관(차), 소방차	24
+endurance	명. 인내, 지구력, 내구성	24
+elevator	명. 엘리베이터, 승강기	24
+elephant	명. 코끼리	24
+dump	동. (쓰레기를)내버리다 / 동. 쓰레기더미	24
+duck	명. 오리	24
+discover	동. 발견하다	24
+disappoint	동. 실망시키다	24
+disappear	동. 사라지다	24
+directly	부. 곧장, 직접, 즉시	24
+difficulty	명. 어려움, 곤경	24
+differ	동. 다르다	24
+dictionary	명. 사전	24
+diamond	명. 다이아몬드	24
+devil	명. 악마	24
+dessert	명. 디저트, 후식	24
+desert	명. 사막 / 동. 버리다	24
+degree	명. 정도, 등급, (각도/온도의)도, 학위	24
+cream	명. 크림	24
+Christian	명. 기독교인 / 형. 기독교의	24
+behind	전치사. ~의 뒤에	24
+asleep	형. 잠들어	24
+flow	동. 흐르다 / 명. 흐름	24
+freeze	동. 얼다, 얼게 하다	24
+greet	동. 인사하다	24
+hang	동. 걸다, 매달다, 매달리다	24
+item	명. 항목, 품목	24
+jail	명. 교도소, 감옥	24
+jam	명. 잼, 혼잡	24
+jewel	명. 보석	24
+knee	명. 무릎	24
+knowledge	명. 지식	25
+lamb	명. 새끼 양	25
+lamp	명. 램프, 등불	25
+leather	명. 가죽 / 형. 가죽의	25
+lunar	형. 달의	25
+lung	명. 폐, 허파	25
+match	명. 성냥, 시합 / 동. 어울리다, 조화시키다	25
+medical	형. 의학의, 의료의	25
+mild	형. 부드러운, 온화한	25
+napkin	명. 냅킨	25
+navy	명. 해군	25
+near	전치사. ~가까이에 / 부. 가까이 / 형. 가까운	25
+neck	명. 목	25
+nephew	명. 조카	25
+nonsense	명. 무의미한 말, 허튼 소리, 터무니없는 것	25
+nose	명. 코	25
+otherwise	부. 달리, 그렇지 않으면	25
+pants	명. 바지	25
+passenger	명. 승객	25
+photo	명. 사진 (= photograph)	25
+plate	명. 접시	25
+voyage	명. 여행, 항해 / 동. 여행하다	25
+volleyball	명. 배구	25
+valley	명. 골짜기, 계곡	25
+universe	명. 우주, 삼라만상	25
+Tuesday	명. 화요일	25
+tooth	명. 이, 치아	25
+title	명. 제목, 직함, (스포츠) 타이트	25
+tightly	부. 단단히, 꽉	25
+through	전치사. ~을 뚫고, ~을 통과하여	25
+theater	명. 극장, 연극	25
+suit	명. 한 벌 정장 / 동. 어울리다, 맞추다	25
+storm	명. 폭풍(우)	25
+stage	명. 무대, 단계	25
+slope	명. 경사지, 비탈	25
+scientific	형. 과학의, 과학적인	25
+rent	명. 임대(료) / 동. 빌려 주다, 빌리다	25
+recycle	동. 재활용하다	25
+print	명. 인쇄(물) / 동. 인쇄하다	25
+prepare	동. 준비하다	25
+powerful	형. 강력한	25
+peaceful	형. 평화스러운	25
+painful	형. 아픈, 고통을 주는	25
+pain	명. 고통, (~s)수고, 노고	25
+pack	명. 꾸러미 / 동. (짐을)꾸리다	25
+organization	명. 조직, 단체	25
+master	명. 주인, 대가 / 동. 숙달하다	26
+jacket	명. 재킷, 양복의 상의	26
+dentist	명. 치과 의사	26
+communicate	동. (정보 등을)전달하다, 의사소통 하다	26
+argue	동. 논쟁하다, 주장하다	26
+widely	부. 넓게, 크게	26
+wealthy	형. 부유한	26
+waist	명. 허리	26
+useless	형. 쓸모없는, 무익한	26
+tomb	명. 무덤	26
+ticket	명. 티켓, 표	26
+tax	명. 세금	26
+taste	동. 맛보다, ~의 맛이나다 / 명. 맛, 미각, 취향	26
+sting	동. 찌르다	26
+starve	동. 굶어 죽다, 굶주리다	26
+spoil	동. 망치다	26
+sore	형. 아픈, 쑤시는	26
+sob	동. 흐느껴 울다 / 명. 흐느낌	26
+shock	명. 쇼크, 충격 / 동. 충격을 주다	26
+search	동. 찾다, 탐색하다 / 명. 수색, 조사	26
+satellite	명. (인공)위성 / 형. (인공)위성의	26
+rush	동. 돌진하다, 서두르다 / 명. 돌진, 분주	26
+root	명. 뿌리	26
+role	명. 역할	26
+purpose	명. 목적	26
+post	명. 기둥, 지위, 우편(물) / 동. 우송하다	26
+position	명. 위치, 지위	26
+Olympic	형. 올림픽의 / 명. (the~)올림픽 대회	26
+form	명. 형태 / 동. 형성하다	26
+flame	명. 불꽃 / 동. 타오르다	26
+deal	명. 다루다, 거래하다 / 명. 거래	26
+bone	명. 뼈	26
+attack	동. 공격하다 / 명. 공격	26
+among	전치사. ~(3개 이상의)사이에, ~중의 하나로	26
+adult	명. 어른, 성인 / 형. 어른의	26
+wealth 	명. 부, 재산	26
+view	명. 보기, 경치, 견해 / 동. 바라보다	26
+tough	형. 강인한, 질긴, 힘든	26
+total	형. 총계의, 전체의 / 명. 합계	26
+thirsty	형. 목마른	26
+teenager	명. 십대	26
+tail	명. 꼬리	26
+structure	명. 구조(물)	26
+stream	명. 흐름, 시내	26
+stick	명. 막대기 / 동, 찌르다, 붙이다, 달라붙다	26
+spell	동. 철자를 쓰다	26
+sort	명. 종류	27
+shell	명. 껍질, 조개	27
+serve	동. 섬기다, 봉사하다, 시중들다	27
+schedule	명. 예정(표) / 동. 예정하다	27
+rough	형. 거칠거칠한, 거친, 대략의	27
+punish	동. 벌주다	27
+pet	명. 애완동물 / 형. 애완의	27
+parcel	명. 소포	27
+observe	동. 관찰하다, (규칙 등을)준수하다	27
+native	형. 출생지의, 토착의 / 명. 원주민	27
+mirror	명. 거울	27
+ignore	동. 무시하다	27
+furniture	명. 가구	27
+export	동. 수출하다 / 명. 수출(품)	27
+envelope	명. 봉투	27
+clever	형. 영리한	27
+bomb	명. 폭탄 / 동. 폭격하다	27
+awfully	부. 아주, 몹시	27
+according to	숙어. ~에 따라, ~의하면	27
+a 	부정관사.하나의(=one),어떤, ~마다	27
+be	동. ~이다, ~에 있다	27
+boy	명. 소년	27
+class	명. 학급, 수업	27
+come	동. 오다	27
+country	명. 나라, 시골	27
+family	명. 가족, 집안	27
+first	형. 첫째, 최초의 / 부. 처음으로	27
+friend	명. 친구	27
+go 	동. 가다	27
+here	부. 여기에, 이곳에 / 명. 여기	27
+let	동. ~을 시키다, ~하게 하다	27
+long	형. 긴 / 부. 길게, 오래	27
+lot	명.(수 혹은 양이)많음 * a lot of 많은	27
+money	명. 돈	27
+new	형. 새로운	27
+now	부. 지금(은) / 명. 지금	27
+old	형. 나이든, 오래된	27
+other	형. 다른, 그 밖의 / 부. 다른 사람(것)	27
+part	명. 부분, 역할	27
+please	동. 기쁘게 하다 / 부. 제발	27
+right	형. 옳은, 오른쪽의 / 명. 오른쪽, 권리	27
+see	동. 보다, 알다, 만나다	27
+sing	동. 노래하다	27
+sure	형. 확신하는 / 부. 확실히	27
+teacher	명. 선생님, 교사	27
+think	동. 생각하다	27
+too	부. ~도 또한, 너무	28
+water	명. 물	28
+year	명. 해, 1년	28
+want	동. 원하다, 필요하다	28
+then	부. 그 때, 그리고 나서	28
+thank	동. 감사하다	28
+take	동. 잡다, 받다, 데리고 가다	28
+sorry	형. 미안하게 생각하는, 유감스러운	28
+son	명. 아들	28
+read	동. (책, 글 따위를)읽다	28
+play	동. 놀다, 경기하다, 연주하다	28
+out	부. 밖으로(에서)	28
+little	형. 작은, 적은, 어린	28
+last	형. 마지막의, 지난 / 동. 지속되다	28
+language	명. 언어	28
+king	명. 왕	28
+kind	명. 종류  / 형. 친절한	28
+just	부. 바로, 막, 오직	28
+idea	명. 생각, 아이디어	28
+I 	대명사. 나는, 내가	28
+hope	동. 희망하다, 바라다 / 명. 희망	28
+have to	숙. 반드시 ~해야 한다	28
+great	형. 큰, 위대한, 멋진	28
+get	동. 얻다, (어떤 장소에) 이르다	28
+every	형. 모든	28
+doctor	명. 의사, 박사	28
+clock	명. 시계 	28
+car	명. 차, 자동차	28
+bill	명. 계산서, 지폐, 법안	28
+beautiful	형. 아름다운	28
+another	형. 또 하나의, 다른 / 대. 또 하나	28
+air	명. 공기, 대기	28
+again	부. 다시	28
+yesterday	부. 어제 / 명. 어제	28
+winter	명.겨울	28
+use	동. 사용(이용)하다  / 명. 사용, 이용	28
+together	부. 함께, 같이	28
+spring	명. 봄, 용수철, 샘  / 동. 튀다	28
+speak	동. 말하다	28
+soon	부. 곧, 일찍	28
+small	형. 작은	28
+sister	명. 여자 형제	28
+science	명. 과학	28
+only	부. 단지, 오직  / 형. 유일한	28
+next	형. 다음의, 바로 옆의,  / 부. 다음에	28
+moon	명. 달	28
+miss	동. 놓치다, 그리워하다	29
+meet	동. 만나다	29
+live	동. 살다   / 형. 살아있는	29
+it	대명사. 그것이, 그것은, 그것을	29
+interesting	형. 재미있는, 흥미있는	29
+important	형. 중요한	29
+he	대명사. 그는, 그가	29
+find	동. 발견하다, 찾아내다, 알아내다	29
+eye	명. 눈, 눈동자	29
+excuse	명. 변명    / 동. 용서하다, 변명하다	29
+example	명.예, 모범  * for example 예를들면	29
+door	명. 문, 출입구	29
+diary	명. 일기(장)	29
+cold	형. 추운, 차가운 / 명. 감기, 추위	29
+bad	형. 나쁜, 심한	29
+back	부. 뒤로  /  명. 등  /  형. 뒤(쪽)의	29
+aunt	명. 아주머니, 이모, 고모, 숙모	29
+young	형. 젊은, 어린	29
+write	동. (글 따위를)쓰다	29
+win	동. 승리하다, 얻다, 획득하다	29
+try	동. 노력하다, 시도하다 / 명. 시도	29
+trip	명. 여행	29
+they	대명사. 그들이, 그들은	29
+talk	동. 말하다, 이야기 하다	29
+such	형. 그러한 / 대명사. 그러한 것(사람)	29
+soccer	명. 축구	29
+sign	명. 신호, 기호, 간판 / 동. 서명하다	29
+side	명. (측)면, 옆구리	29
+she	대명사. 그녀는, 그녀가	29
+same	형. 같은, 동일한 / 대명사. 같은 것	29
+put	동. 놓다, 두다	29
+parent	명. 어버이, 부모	29
+often	부. 종종, 자주	29
+off	부. 떨어져서	29
+north	명. 북(쪽) / 형. 북쪽의	29
+never	부. 결코 ~하지 않다	29
+light	명. 빛 / 형. 가벼운 / 동. 불을 붙이다	29
+learn	동. 배우다, 알다	29
+late	형. 늦은  / 부. 늦게	29
+ever	부. 이전에, 언제나, 언젠가	29
+easy	형. 쉬운, 편한	29
+dear	형. 사랑스러운, 소중한, 비싼	29
+club	명. 클럽, 동호회	29
+clothes	명. 옷, 의복	29
+care	명. 돌봄, 주의, 걱정 / 동. 돌보다	29
+body	명. 몸, 신체	29
+almost	부. 거의	30
+busy	형. 바쁜, 번화한, 통화중인	30
+early	부. 일찍이 / 형. 이른	30
+far	부. 멀리, (비교급 강조)훨씬 / 형. 먼	30
+large	형. 큰, 넓은	30
+later	형. 더 늦은 / 부. 나중에, 뒤에	30
+listen	동. 듣다	30
+minute	명. (시간)분, 순간	30
+movie	명. 영화	30
+none	대명사. 아무도~하지 않다.	30
+one	대명사. 한 사람, 하나, 일반적인 사람	30
+owl	명. 올빼미	30
+paper	명. 종이, 서류, 신문 	30
+person	명. 사람, 인물	30
+plane	명. 비행기	30
+present	명. 선물, 현재 / 형. 출석한, 현재의	30
+pretty	형. 예쁜 / 부. 매우	30
+rain	명. 비 / 동. 비가오다	30
+refrigerator	명. 냉장고 (=fridge)	30
+second	명. 제2, (시간)초 / 형. 제2의	30
+snow	명. 눈 / 동. 눈이 오다	30
+sometimes	부. 때때로	30
+sound	명.소리/동.~처럼들리다,소리가나다	30
+space	명. 공간, 우주	30
+tired	형. 피곤한, 지친, 싫증난	30
+train	명. 기차	30
+walk	동. 걷다 / 명. 산책하다	30
+welcome	동. 환영하다 / 명.환영 / 형.환영받는	30
+window	명. 창문	30
+wish	명. 소망 / 동. 바라다, 빌다	30
+afraid	형. 두려워하는, 걱정하는	30
+both	형. 양쪽의, 둘 다 / 대명사. 양쪽	30
+can	조동사. ~할수 있다. ~해도 되다	30
+certainly	부. 확실히, 확실하게	30
+dream	명. 꿈 / 동. 꿈을 꾸다	30
+eat	동. 먹다	30
+enough	형. 충분한 / 부. 충분히	30
+field	명. 들판, 경기장, 분야	30
+front	명. 앞, 정면 / 형. 정면의	30
+hobby	명. 취미	30
+hometown	명. 고향	30
+hurry	명. 서두름 / 동. 서두르다	30
+mean	동. 의미하다, ~할 작정이다	30
+middle	형. 한가운데의 / 명. 한가운데	30
+office	명. 사무실, 관청	30
+outside	부.바깥쪽으로 / 명.바깥쪽/ 형.외부의	30
+policeman	명. 경찰관	31
+quickly	부. 재빨리	31
+remember	동. 기억하다	31
+September	명. 9월	31
+show	동. 보여주다 / 명. 구경거리, 쇼	31
+something	명. 어떤 것(일)	31
+stop	동. 멈추다, 그만두게 하다 / 명. 멈춤	31
+study	명. 공부, 연구 / 동. 공부(연구)하다	31
+subway	명. (미국)지하철, (영국)지하도	31
+usually	부. 보통, 대게	31
+vacation	명. 방학, 휴가	31
+village	명. 마을	31
+warm	형. 따뜻한	31
+wonderful	형. 놀라운, 훌륭한	31
+anyway	부. 어쨌든, 아무튼	31
+bicycle	명. 자전거	31
+break	동. 깨뜨리다, 고장내다, 어기다	31
+century	명. 1세기, 100년	31
+either	부. (부정문)~도 또한(~아니다)	31
+else	형. 그밖의 / 부. 그밖에	31
+enjoy	동. 즐기다	31
+face	명. 얼굴 / 동. 향하다, 직면하다	31
+green	형. 녹색의, 푸른 / 명. 초록색	31
+guide	명.안내자, 지침 / 동.안내(지도)하다	31
+inside	부. 안(쪽)에 / 명. 안쪽 / 형. 안쪽의	31
+law	명. 법, 법률	31
+left	형. 왼쪽의	31
+math	명. 수학 (=mathematics)	31
+meeting	명. 만남, 모임, 회의	31
+must	조동사. 반드시~해야 한다	31
+ocean	명. 대양, 바다 	31
+open	동. 열다 / 형. 열린, 개방된	31
+own	형. 자신의 / 동. 소유하다	31
+page	명. 쪽, 페이지	31
+player	명. 경기자, 선수, 연주자, 연극배우	31
+sick	형. 아픈, 병든	31
+state	명. 국가, (미국의)주, 상태	31
+stay	동. 머무르다. ~인체 하다	31
+suddenly	부. 갑자기	31
+swim	동. 수영하다	31
+understand	동. 이해하다	31
+worry	동. 걱정시키다. 걱정하다.	31
+would	조동사. (불규칙습관)하곤했다. 	31
+TRUE	형. 참된, 진실의, 성실한	31
+blue	형. 파란색의 / 명. 파란색	31
+cousin	명. 사촌	31
+cup	명. 컵	32
+exercise	명. 운동, 연습 / 동. 운동(연습)하다	32
+famous	형. 유명한	32
+finally	부. 마침내, 결국	32
+fly	동. 날다, 비행기로 가다 / 명. 파리	32
+free	형. 자유로운, 한가한, 공짜의	32
+full	형. 가득한, 가득찬, 배부른	32
+hall	명. 홀, 회관, 현관의 넓은 방	32
+luck	명. (행)운	32
+member	명. 회원, 구성원	32
+mouth	명. 입	32
+ride	동. 타다 / 명. 타기	32
+safety	명. 안전	32
+save	동. 구하다, 저축하다	32
+shall	조동사. ~할 것이다. ~하겠다	32
+should	조동사.반드시~해야한다(Shall 과거)	32
+soldier	명. 군인	32
+stand	동. 서다, 참다 / 명. 스탠드, 노점	32
+start	동.출발하다,시작하다 / 명.출발,시작	32
+surprise	동. 놀라게 하다 / 명. 놀람	32
+telephone	명. 전화, 전화기 / 동. 전화를 걸다	32
+tourist	명. 관광객	32
+truck	명. 트럭	32
+unite	동. 합치다, 하나가 되다	32
+wait	동. 기다리다	32
+wonder	동.~이 아닐까 생각하다  / 명.놀라움	32
+wrong	형. 나쁜, 틀린	32
+yet	부. (부정문)아직, (의문문)벌써	32
+yard	명. 마당, 구내, 뜰	32
+wind	명. 바람	32
+used to	조동사. ~하곤 했었다	32
+touch	동. 만지다 / 명. 접촉	32
+tiger	명. 호랑이	32
+thank	동. 감사하다	32
+story	명. 이야기, (건물의)층	32
+stamp	명. 우표	32
+stadium	명. 경기장, 스타디움	32
+special	형. 특별한, 전문의	32
+shout	동. 외치다 / 명. 외침	32
+send	동. 보내다	32
+proud	형. 자랑하는	32
+president	명. 대통령, 장(長)	32
+popular	형. 대중의, 인기있는	32
+pay	동. 지불하다 / 명. 지급, 봉급	32
+news	명. 소식, 뉴스	32
+need	동. 필요하다 / 명. 필요(성)	32
+move	동. 움직이다, 이사하다, 감동시키다	33
+leave	동. 떠나다, 남기다, ~한 상태로 두다	33
+interest	명. 흥미,관심,이익 / 동.흥미를 끌다	33
+hungry	형. 배고픈	33
+happily	부. 행복하게	33
+exciting	형. 흥분시키는	33
+everywhere	부. 어디에나	33
+cut	동. 베다, 자르다 / 명. 베다, 자르다	33
+carry	동. 나르다, 휴대하다	33
+arm	명. 팔, (보통~s)무기	33
+address	명. 주소, 연설 / 동. 연설하다	33
+adapt	동. 적응시키다, 개작하다	33
+alone	부. 홀로, 외로이	33
+bright	형. 밝은, 똑똑한	33
+build	동. 짓다, 건축하다	33
+but	접속사. 그러나	33
+careful	형. 주의 깊은, 조심성 있는	33
+catch	동. 붙잡다, (병에)걸리다	33
+collect	동. 모으다, 수집하다	33
+excite	동. 흥분시키다 * excited 흥분한	33
+finish	동. 끝내다, 마치다	33
+flight	명. 비행, 항공편	33
+following	형. 다음의 / 명. 다음에 오는 것	33
+foreign	형. 외국의	33
+forward	부. 앞으로 	33
+Friday	명. 금요일	33
+guitar	명. 기타	33
+hundred	명. 100 / 형. 100의	33
+model	명. 모형, 모범, 모델 / 형. 모형의	33
+nation	명. 국가, 국민, 민족	33
+neighbor	명. 이웃 / 형. 이웃의	33
+November	명. 11월	33
+or	접속사. 또는, 혹은	33
+pass	동. 지나가다, 넘겨주다, 합격하다	33
+peace	명. 평화	33
+pick	동. (과일 등을)따다, 고르다, 줍다	33
+radio	명. 라디오, 라디오 방송	33
+seem	동. ~처럼 보이다, ~인것 같다	33
+shop	명. 가게 / 동. 물건을 사다	33
+society	명. 사회	33
+useful	형. 쓸모 있는, 유용한	33
+wash	동. 씻다	33
+ahead	부. 앞쪽에(으로)	33
+angry	형. 성난, 화난	33
+ant	명. 개미	33
+as	접속사.~하고 있을때,~하므로,~대로	33
+center	명. 중심, 중앙, 중심지	34
+cook	명. 요리사 / 동. 요리하다	34
+dance	명. 춤 / 동. 춤을 추다	34
+drive	동. 운전하다, 몰다 / 명. 드라이브	34
+east	명. 동쪽 / 형. 동쪽의	34
+empty	형. 빈	34
+forget	동. 잊다, 망각하다	34
+funny	형. 재미있는, 웃기는, 이상한	34
+generally	부. 일반적으로	34
+harvest	명. 수확(기) / 동. 거두어 들이다	34
+hold	동. 잡고 있다, 지니다, 개최하다	34
+hospital	명. 병원	34
+July	명. 7월	34
+kill	동. 죽이다	34
+labor	명. 노동 / 동. 노동하다	34
+loud	형. (소리가)큰, 시끄러운	34
+map	명. 지도	34
+medal	명. 메달, 훈장	34
+museum	명. 박물관, 미술관	34
+obey	동. 복종하다, 따르다	34
+pal	명. 친구, 동아리	34
+sell	동. 팔다	34
+so	접속사. 그래서, 그러므로 / 부. 매우	34
+spend	동. (돈을)쓰다, (시간을)보내다	34
+third	형. 세 번재의 / 명. 제3	34
+whole	형. 전체의, 모든 / 명. 전체, 전부	34
+since	접속사/전치사. ~이후로, ~때문에	34
+shirt	명. 셔츠	34
+sentence	명. 문장	34
+secret	형. 비밀의 / 명. 비밀	34
+salt	명. 소금	34
+possible	형. 가능한	34
+pity	명. 동정, 연민 / 동. 불쌍히 여기다	34
+past	명. 과거 / 형. 지나간, 과거의	34
+palace	명. 궁전	34
+October	명. 10월	34
+lion	명. 사자	34
+leader	명. 지도자	34
+knife	명. 나이프, 칼	34
+June	명. 6월	34
+instead	부. 그 대신에 *  instead of ~대신에	34
+imagine	동. 상상하다, 생각하다	34
+hurt	동. 다치게하다, 상처를주다 / 명.상처	34
+hole	명. 구멍	34
+hevey	형.무거운, (비나 바람이)심한,대량의	34
+fresh	형. 새로운, 신선한	34
+exactly	부. 정확하게	35
+draw	동. 끌어당기다, (그림을) 그리다	35
+divide	동. 나누다, 분할하다	35
+die	동. 죽다	35
+deep	형. 깊은 / 부. 깊게	35
+cloudy	형. 흐린, 구름이 많은	35
+certain	형. 확실한, 확신하는, 어떤	35
+August	명. 8월	35
+agree	동. 동의하다, 의견이 일치하다	35
+after	접속사.~한후에 / 전치사.~뒤에,후에	35
+while	접속사. ~하는 동안, ~하는 반면	35
+wall	명. 벽	35
+vegetable	명. 채소, 야채	35
+upstairs	부. 위층으로 / 명. 위층 / 형. 위층의	35
+until	접속사. ~할때까지  / 전치사. ~까지	35
+traveler	명. 여행자	35
+tonight	명. 오늘밤 / 부. 오늘밤에	35
+strong	형. 힘센, 강한	35
+smell	동. 냄새가나다 / 명. 냄새	35
+skate	명. 스케이트신발 / 동.스케이트 타다	35
+promise	명. 약속, 전망 / 동. 약속하다	35
+perhaps	부. 아마도	35
+necessary	형. 필요한, 없어서는 안될	35
+modern	형. 현대의, 현대적인	35
+message	명. 메시지, 전갈	35
+lovely	형. 사랑스러운, 아름다운	35
+laugh	동. 웃다, 비웃다	35
+lady	명. 숙녀	35
+introduce	동. 소개하다, 들여오다, 도입하다	35
+information	명. 정보	35
+garbage	명. 쓰레기, 음식 찌꺼기	35
+follow	동. 따르다	35
+fence	명. 울타리, 담	35
+dry	형. 마른,건조한 / 동.말리다,건조하다	35
+drop	명.(액체의)방울, 떨어짐/동.떨어지다	35
+cool	형. 시원한, 차가운 / 동. 차게하다	35
+coin	명. 동전	35
+choose	동. 고르다, 선택하다, 선출하다	35
+airport	명. 공항	35
+act	명.행위,행동 / 동.행동하다,연기하다	35
+Asian	명. 아시아 사람 / 형. 아시아의	35
+beg	동. 구걸하다, 간청하다	35
+brave	형. 용감한	35
+camp	명. 캠프, 야영지 / 동. 야영하다	35
+check	명. 점검, 저지, 수표 / 동. 점검하다	35
+classmate	명. 학급 친구, 급우	35
+community	명. 지역사회, 공동체	36
+corner	명. 모퉁이, 구석	36
+crowded	형. 붐비는	36
+culture	명. 문화, 교양	36
+dangerous	형. 위험한	36
+deer	명. 사슴	36
+department	명. 부문, 부	36
+distance	명. 거리, 간격	36
+dolphin	명. 돌고래	36
+ear	명. 귀	36
+effect	명. 영향, 효과, 결과	36
+feeling	명. 느낌, 감정	36
+honest	형. 정직한	36
+marry	동. ~와 결혼하다	36
+nearby	형. 가까운 / 부. 가까이	36
+reach	동. 도착하다, 뻗다 / 명. 미치는 범위	36
+receive	동. 받다	36
+report	명. 보고(서) / 동. 보고하다	36
+safely	부. 안전하게	36
+several	형. 몇몇의	36
+sweet	형. 달콤한, 향기로운 / 명. 단것(~s)	36
+tear	명. 눈물 / 동. 찢다	36
+unless	접속사. ~이 아니면, ~하지 않은다면	36
+whether	접속사. ~인지 아닌지, ~이든 아니든	36
+wild	형. 야생의, 거친	36
+wide	형. 넓은 / 부. 넒게	36
+what	의문사. 무엇(대명사), 무슨(형용사)	36
+wet	형. 젖은, 비 오는	36
+west	명. 서쪽 / 형. 서쪽의	36
+unify	동. 통일하다, 하나로 하다	36
+unhappy	형. 불행한	36
+that	지시대명사. 저것, 저사람	36
+straight	부.똑바로,직접,솔직하게 / 형.똑바른	36
+silver	명. 은 / 형. 은의, 은으로 만든	36
+return	동. 되돌아가다, 돌려주다 / 명. 귀환	36
+raise	동. 올리다, 기르다, 모으다	36
+enter	동. 들어가다, 입학하다	36
+downstairs	부.아래층으로/형.아래층의/명.아래층	36
+conversation	명. 대화	36
+common	형. 공통의, 보통의, 흔한	36
+coat	명. 코트, 웃옷	36
+climb	동. 오르다, 등반하다	36
+clear	형. 맑은, 명백한 / 동. 깨끗하게 하다	36
+chopstick	명. 젓가락	36
+cave	명. 동굴	36
+boot	명. (보통~s) 장화, 부츠	36
+belong	동. 속하다, 소속하다	37
+beggar	명. 거지	37
+bee	명. (곤충)벌	37
+autumn	명. 가을	37
+astronaut	명. 우주 비행사	37
+art	명. 예술, 미술, 기술	37
+appear	동. 나타나다, ~인 듯하다	37
+accident	명. 사고	37
+yellow	형. 노란색의	37
+writer	명. 작가	37
+which	의문사. 어느쪽, 어느 	37
+uniform	명. 제복, 유니폼	37
+twice	부. 두번, 두배로	37
+sugar	명. 설탕	37
+statue	명. 상, 조상	37
+speed	명. 속도	37
+slow	형. 느린 	37
+simply	부. 간단히, 단지, 검소하게 	37
+silent	형. 조용한, 침묵을 지키는 	37
+shake	동. 흔들다	37
+scene	명. 장면, 무대, 장치	37
+professor	명. 교수	37
+pour	동. 따르다. 붓다, 쏟다	37
+point	명. 끝, 점, 요점	37
+period	명. 기간, 시대, 마침표	37
+pencil	명. 연필	37
+mark	명. 표시, 기호, 점수	37
+invite	동. 초대하다, 초청하다	37
+how	의문부사. 얼마나, 어떻게	37
+hike	동. 도보여행하다, 하이킹하다	37
+fill	동. 채우다, 만족시키다.	37
+fair	형. 공정한	37
+comfortable	형. 편안한	37
+calm	형. 고요한, 평온한	37
+borrow	동. 빌리다	37
+bark	동. 짖다	37
+advertisement	명. 광고	37
+activity	명. 활동	37
+why	의문사. 왜 / 관계사. ~하는 이유	37
+where	의문사. 어디에, 어디로 	37
+terrible	형. 무서운, 지독한	37
+short	형. 짧은, 키가 작은, 부족한	37
+rise	동. 오르다, 일어서다	37
+push	동. 밀다	37
+pull	동. 당기다, 끌다	37
+probably	부. 아마도	37
+prefer	동. 더 좋아하다, 선호하다	38
+polite	형. 공손한, 예의 바른	38
+noisy	형. 시끄러운	38
+merry	형. 명랑한	38
+manager	명. 지배인, 경영자	38
+main	동. 주요한	38
+knock	동. 두드리다, 때리다 / 명. 노크	38
+kindness	명. 친절	38
+jungle	명. 밀림 지대, 정글	38
+January	명. 1월	38
+independence	명. 독립	38
+heart	명. 심장, 마음	38
+ham	명. 햄	38
+gun	명. 총, 대포	38
+greatly	부. 크게, 위대하게	38
+grade	명. 성적, 등급, 학년	38
+giant	명. 거인, 위인 / 형. 거대한	38
+ghost	명. 유령	38
+footprint	명. 발자국	38
+folk	명. 사람들, 가족 / 형. 민속의, 민간의	38
+dozen	명. 다스, 12개 / 형. 다스의, 12개의	38
+boil	동. 끓다, 끓이다	38
+treat	동. 다루다, 치료하다, 대접하다 / 명. 대접	38
+toward	전치사. ~쪽으로, ~쪽에 있는, ~에 대한	38
+to	전치사. ~으로, ~까지, ~에게	38
+test	명. 시험 / 동. 시험하다	38
+support	동. 유지(부양,지지)하다 / 명. 유지,지지,부양	38
+stupid	형. 어리석은, 멍청한	38
+sometime	부. 언젠가	38
+ski	명. 스키 / 동. 스키를 타다	38
+silly	형. 어리석은	38
+sail	명. 돛 / 동. 항해하다, 출범하다	38
+parliament	명. 의회, 국회	38
+nod	동. 끄덕이다, 졸다 / 명. 끄덕임	38
+natural	형. 자연의, 당연한	38
+grand	형. 웅장한, 위대한	38
+freedom	명. 자유	38
+foolish	형. 어리석은	38
+feed	동. 먹이를 주다, 기르다	38
+February	명. 2월	38
+feast	명. 축제, 잔치	38
+favor	명. 부탁, 호의	38
+explorer	명. 탐험가	38
+exam	명. 시험 (=examination)	38
+effort	명. 노력, 수고	38
+democracy	명. 민주주의	38
+dead	형. 죽은	39
+customer	명. 고객, 단골 손님	39
+chief	명. 장, 우두머리 / 형. 최고의,주요한	39
+chemical	형. 화학의 / 명. 화학 제품(약품)	39
+applaud	동. 박수갈채를 보내다	39
+aboad	부. 배(열차, 버스, 비행기)를 타고	39
+will	명. 의지	39
+umbrella	명. 우산	39
+trust	명. 신뢰, 신용 / 동. 신뢰하다, 믿다	39
+toy	명. 장난감	39
+tie	동. 매다 / 명. 넥타이, 매듭	39
+Thursday	명. 목요일	39
+steak	명. 두껍게 썬 고기, 비프 스테이크	39
+stair	명. 계단	39
+silence	명. 침묵	39
+relative	명. 친척 / 형. 상대적인	39
+quarrel	명. 말다툼 / 동. 말다툼 하다	39
+perfect	형. 완전한, 완벽한	39
+on = upon	전치사. ~(접촉)위에	39
+metal	명. 금속	39
+medium	형. 중간의 / 명. 매개물, 매체	39
+low	형. 낮은 / 부. 낮게	39
+junior	형. 손아래의 / 명. 연소자	39
+increase	동. 증가시키다, 늘리다 / 명. 증가	39
+in	전치사. ~안에서, ~안으로	39
+heroic	형. 영웅의, 용맹스러운	39
+golden	형. 금빛의, 귀중한	39
+frighten	동. 소스라쳐 놀라게 하다	39
+forgive	동. 용서하다	39
+float	동. 띄우다, 뜨다	39
+fit	동. ~에 딱 맞다, 맞추다 / 형, 적합한	39
+expensive	형. 값 비싼	39
+expect	동. 기대하다	39
+destroy	동. 파괴하다	39
+clearly	부. 말게, 밝게, 분명히	39
+anywhere	부. 어딘가에, 아무데도, 어디든지	39
+suppose	동. 가정하다, 추측하다	39
+reply	동. 대답하다 / 명. 대답	39
+remain	동. 남다, ~인 채로 있다	39
+relax	동. 편하게 하다, 편히 쉬다	39
+realize	동. 깨닫다, 실현하다	39
+press	명. 누르다, 압박하다 / 명. 인쇄기, 신문	39
+nearly	부. 거의, 가까스로	39
+measure	동. 재다, 측정하다 / 명. 측정	39
+loudly	부. (도심지의)상업지구로 / 명. 상업지구	39
+hunter	명. 사냥꾼	39
+human	형. 인간의, 인간다운 / 명. 인간, 사람	40
+host	명. 주인, 주최자	40
+honey	명. 벌꿀, (호칭)귀여운 사람	40
+helicopter	명. 헬리콥터	40
+harm	명. 해, 손해 / 동. 해치다	40
+guard	명. 호위병, 경호원 / 동. 지키다	40
+fable	명. 우화	40
+excitement	명. 흥분	40
+electricity	명. 전기	40
+education	명. 교육	40
+editor	명. 편집자	40
+during	전치사. ~동안	40
+downtown	부. (도심지의)상업지구로 / 형. 상업지구의	40
+distant	형. (거리, 시간, 관계 등이) 먼	40
+delicious	형. 맛있는	40
+curious	형. 호기심이 강한	40
+cure	동. 치료하다 / 명. 치료	40
+cultural	형. 문화적인	40
+content	명. 내용(물) / 형. 만족하고 있는	40
+against	전치사. ~에 반대하여, ~에 부딪쳐서	40
+anymore	부. (부정문,의문문) 더 이상	40
+beat	동. 치다, 이기다 / 명. 때리기, (심장의)고동	40
+beneath	전치사. ~의 밑(아래)에	40
+bet	동. 내기하다, 장담하다 / 명. 내기	40
+bother	동. 괴롭히다, 귀찮게 하다	40
+breathe	동. 숨쉬다   * breath호흡	40
+complain	동. 불평하다, 항의하다	40
+completely	부. 완전히	40
+everyday	형. 매일의, 일상의 * every day 매일	40
+from	전치사. ~부터, ~에서, ~에서 온	40
+handsome	형. 잘생긴	40
+quick	형. 빠른	40
+ring	명. 고리, 반지 / 동. 울리다	40
+sheep	명. 양 	40
+shoulder	명. 어깨	40
+shuttle	명. 정기 왕복 버스(우주선)	40
+similar	형. 비슷한, 닮은	40
+single	형. 단 하나의, 혼자의 / 명. 하나의 것	40
+skin	명. 피부	40
+skirt	명. 스커트, 치마	40
+spoon	명. 스푼, 숟가락	40
+strength	명. 힘, 세기, 강점	40
+sunset	명. 일몰, 해질녘	40
+supermarket	명. 슈퍼마켓	40
+temple	명. 사원, 절	40
+throat	명. 목구멍	40
+tour	동. 여행하다 / 명. 관광 여행, 순회공연	41
+tube	명. 관, 통, 튜브, (영국의)지하철	41
+whisper	동. 속삭이다 / 명. 속삭임	41
+windy	형. 바람이 부는	41
+basic	형. 기초의, 기본의 / 명. 기초, 기본	41
+brush	명. 솔, 붓 / 동. 솔질하다	41
+by	전치사. ~에 의하여, ~까지, ~로	41
+cause	명. 원인, 명분 / 동. ~의 원인이 되다	41
+climate	명. 기후, 분위기	41
+coal	명. 석탄	41
+conductor	명. 차장, 지휘자	41
+congress	명. 국회, 의회	41
+continent	명. 대륙	41
+control	명. 지배, 통제 / 동. 지배(통제)하다	41
+correct	동. 바로잡다, 고치다 / 형. 옳은	41
+counter	명. 계산대, 계산하는 사람	41
+countryside	명. 시골, 지방	41
+direct	동. 지도하다, 가리키다 / 형. 똑바른, 직행의	41
+disease	명. 질병	41
+double	형. 2배의, 2인용의 / 동. 2배로 하다 / 명. 2배	41
+doubt	명. 의심 / 동. 의심하다	41
+drama	명. 드라마, 희곡, 극	41
+drown	동. 물에 빠지다(빠져 죽다), 익사시키다	41
+Europe	명. 유럽	41
+extra	형. 여분의, 특별한 / 명. 여분의 것	41
+fasten	동. 단단히 고정시키다, 매다, 묶다	41
+fat	형. 살찐, 기름기 많은 / 명. 지방	41
+festival	명. 축제, 잔치	41
+final	형. 마지막의 / 명. 결승전, 기말시험	41
+hug	동. 꼭 껴안다	41
+lend	동. 빌려 주다	41
+mostly	부. 대부분, 대개	41
+peacefully	부. 평화롭게	41
+than	접속사. ~보다 	41
+above	전치사. ~보다 위에, ~이상인	41
+judge	명. 재판관 / 동. 재판하다, 판단하다	41
+lifelong	형. 일생의	41
+limit	명. 한계 / 동. 한정하다, 제한하다	41
+lonely	형. 외로운	41
+needy	형. 매우 가난한	41
+notice	명. 통지, 게시 / 동.알아차리다,주의(주목)하다	41
+outdoor	형. 집밖의, 야외의	41
+Pacific	명. 태평양 / 형. 태평양의	41
+pea	명. 완두(콩)	41
+physicist	명. 물리학자	41
+pig	명. 돼지, 새끼 돼지	41
+plastic	명. 플라스틱 (제품) / 형. 플라스틱의	42
+poet	명. 시인	42
+potato	명. 감자	42
+princess	명. 공주, 왕자비	42
+principal	명. 교장, (단체의)장 / 형. 주요한	42
+private	형. 개인적인, 사적인	42
+progress	명. 전진, 진보 / 동. 전진(진보)하다	42
+prove	동. 증명하다, 판명되다	42
+remind	동. 생각나게 하다	42
+reporter	명. 보고자, 취재 기자	42
+rude	형. 무례한	42
+satisfy	동. 만족시키다 	42
+separate	동. 가르다, 분리하다 / 형. 분리된	42
+somewhere	부. 어딘가에	42
+strike	동. 치다, 때리다 / 명. 치기, 동맹파업	42
+succeed	동. 성공하다, 계승하다	42
+under	전치사. ~의 아래,  ~이하, ~중	42
+wisely	부. 현명하게	42
+about	전치사. ~에 대하여, ~의 가까이에, 약~	42
+accent	명. 강세, 강조, 엑센트	42
+actor	명. (남자)배우	42
+adventure	명. 모혐	42
+alike	형. 서로 같은, 비슷한 / 부. 똑같이	42
+anger	명. 노여움, 화	42
+apart	부. 떨어져서, 따로따로	42
+attend	동. 출석(참석)하다, 주의하다, 보살피다	42
+attract	동. (주의, 흥미등을) 끌다, 매혹하다	42
+attractive	형. 매력적인	42
+avoid	동. 피하다, 회피하다	42
+bake	동. (빵 따위를) 굽다	42
+beautifully	부. 아름답게	42
+bloom	명. 꽃 / 동. 꽃이피다	42
+burn	동. (불)타다, (불)태우다	42
+charge	명.요금,책임 / 동.청구하다,책임을지우다	42
+steep	형. 가파른	42
+sunny	형. 햇빛이 맑은, 양지바른	42
+tap	동. 가볍게 치다 / 명. 마개, 꼭지	42
+thin	형. 얇은, 묽은	42
+trade	명. 무역, 거래 / 동. 매매(거래)하다	42
+transportation	명. 운송, 교통 수단	42
+trick	명. 속임수, 장난 / 동. 속이다	42
+unusual	형. 보통이 아닌, 비범한, 별난	42
+vase	명. 꽃병	42
+weight	명. 무게, 몸무게	42
+wheel	명. 바퀴	42
+winner	명. 승리자, 우승자	42
+wisdom	명. 지혜	43
+within	전치사. ~의 안쪽에서, ~이내에서	43
+beside	전치사. ~의 옆에, ~의 곁에	43
+bronze	명. 청동, 청동 제품 / 형. 청동의	43
+castle	명. 성	43
+character	명. 특성, 성격, 인물	43
+cheek	명. 뺨, 볼	43
+chess	명. 체스, 서양장기	43
+childhood	명. 어린 시절, 유년 시절	43
+chocolate	명. 초콜렛	43
+choice	명. 선택	43
+comfort 	명. 위로, 위안 / 동. 위로하다	43
+comfortably	부. 편안하게	43
+condition	명. 상태, 조건	43
+connect	동. 연결하다, 접속하다	43
+consider	동. 숙고하다, 여기다, 고려하다	43
+consist	동. 이루어지다, ~에 있다	43
+contribute	동. 기부하다, 기여하다, 이바지하다	43
+cooperate	동. 협력하다, 협동하다	43
+corn	명. 옥수수, 곡물	43
+costume	명. 복장, 의상	43
+crash	명. 충돌, 추락, 파괴 / 동. 박살내다, 충돌하다	43
+create	동. 창조하다, 창작하다	43
+cute	형. 귀여운	43
+daily	동. 매일의, 일상의 / 부. 매일	43
+deeply	부. 깊이	43
+devote	동. 바치다, 전념하다	43
+eastern	형. 동쪽의	43
+out of	전치사.~의 안에서 밖으로,~범위밖에	43
+usual	형. 보통의, 평상시의	43
+various	형. 여러 가지의, 다양한	43
+weak	형. 약한	43
+beyond	전치사. ~의 저편에, ~을 넘어서	43
+earn	동. 벌다	43
+elect	동. 선출하다, 선거하다	43
+exchange	동. 교환하다 / 명. 교환	43
+explore	동. 탐험하다	43
+fear	명. 무서움, 공포 / 동. 두려워하다	43
+fix	동. 고치다, 수리하다, 고정시키다	43
+flee	동. 달아나다, 도망치다	43
+fool	명. 바보 / 동. 놀리다, 속이다	43
+forever	부. 영원히	43
+fortune	명. 재산, 행운	43
+frame	명. 틀, 뼈대, 구조	43
+frankly	부. 솔직히	43
+government	명. 정부	43
+grocery	명. 식료 잡화점	44
+hardworking	형. 부지런한, 열심히 일(공부)하는	44
+harmony	명. 조화	44
+hat	명. (테가 있는) 모자	44
+helmet	명. 헬멧	44
+helpful	형. 도움이 되는, 유익한	44
+hut	명. 오두막	44
+imagination	명. 상상(력)	44
+importance	명. 중요(성)	44
+indoor	형. 집 안의, 실내의	44
+instruction	명. 가르침, 지시	44
+into	전치사. ~의 안에, ~안으로	44
+invention	명. 발명(품)	44
+likely	형. ~할 것 같은	44
+local	형. 지방의	44
+loose	형. 풀린, 헐거운	44
+across	전치사. ~을 건너서 / 부. 가로질러서	44
+along	전치사. ~을 따라	44
+bathroom	명. 욕실, 화장실	44
+hatch	동. 알을 까다, 부화하다	44
+hide	동. 숨다, 숨기다	44
+jog	동. 조깅하다  * jogging조깅	44
+kick	동. 차다 / 명. 차기	44
+kiss	명. 입맞춤 / 동. 키스하다	44
+load	명. 짐 / 동. (짐을) 싣다	44
+mend	동. 고치다, 수선하다	44
+mention	동. 언급하다	44
+neat	형. 깔끔한	44
+nervous	형. 초조한, 신경(성)의	44
+northern	형. 북쪽의	44
+outer	형. 밖의, 외부의	44
+pale	형. 창백한, 엷은	44
+particular	형. 특별한	44
+patient	명. 환자 / 형. 참을성 있는	44
+pork	명. 돼지고기	44
+port	명. 항구, 항구 도시	44
+product	명. 생산품	44
+quarter	명. 4분의1 / 형. 4분의 1의	44
+rapidly	부. 재빨리	44
+relationship	명. 관계	44
+resource	명. (~s)자원	44
+sacrifice	명. 희생 / 동. 희생하다	44
+signal	명. 신호 / 동. 신호를 보내다	44
+stem	명. 줄기	44
+therefore	부. 그러므로	44
+tidy	형. 깔끔한, 잘 정돈된	44
+angel	명. 천사	45
+between	전치사. ~사이에	45
+branch	명. (나무등의)가지, 지점	45
+curtain	명. 커튼, 막	45
+familiar	형. 친숙한	45
+hardship	명. 고난, 역경	45
+inform	동. 알리다	45
+magazine	명. 잡지	45
+method	명. 방법	45
+praise	명. 칭찬 / 동. 칭찬하다	45
+prime	형. 제1의, 주요한	45
+rare	형. 드문, 희귀한	45
+regular	형. 규칙적인, 정기적인	45
+repair	동. 수리하다 / 명. 수리, 수선	45
+repeat	동. 되풀이하다, 반복하다 / 명. 반복	45
+responsible	형. 책임이 있는	45
+roll	동. 구르다, 굴리다 / 명. 출석부, 둥글게 만든것	45
+share	명. 몫, 주식 / 동. 나누다	45
+shoot	동. 쏘다, 슛하다 / 명. 발사	45
+shrug	동. (양 어깨를)으쓱하다 / 명. 어깨를 으쓱하기	45
+sigh	동. 한숨 쉬다 / 명. 한숨	45
+sink	동. 가라앉다 / 명. 싱크대, 세면대	45
+soft	형. 부드러운	45
+solar	형. 태양의	45
+suffer	동. 고통을 겪다	45
+talent	명. 재능	45
+throughout	전치사. 도처에, ~동안 내내	45
+unfortunately	부. 불행히도	45
+usefully	부. 유용하게	45
+wine	명. 포도주	45
+active	형. 활동적인,  적극적인	45
+actually	부. 실제로, 참으로	45
+appreciate	동. 감사하다, 감상하다, 진가를 인정하다	45
+ashamed	형. 부끄러워하는, 수줍어하는	45
+billion	명. 10억, 10억의	45
+bitter	형. 쓴, 쓰라린	45
+breath	명. 숨, 호흡	45
+crop	명. 농작물	45
+damage	명. 손해, 피해 / 동. 손해(피해)를 입다	45
+dash	동. 돌진하다 / 명. 돌진	45
+defend	동. 방어하다	45
+deposit	동. 예금하다,맡기다/명. 예금,보증금	45
+diligent	형. 근면한, 부지런한	45
+except	전치사. ~을 제외하고, ~이외는	45
+gentle	형. 온화한, 예의바른	45
+narrow	형. 좁은	45
+net	명. 그물, 통신(방송)망. 네트워크	46
+perform	동. 실행하다, 상연하다, 공연하다	46
+regard	동. 여기다 / 명. 관심, (~s)안부인사	46
+scarcely	부. 거의 ~않다	46
+similarity	명. 비슷함, 유사점	46
+site	명. 장소, 현장	46
+strict	형. 엄격한, 엄밀한	46
+style	명. 스타일, 양식	46
+survive	동. 살아남다, (역경 등을)견디다	46
+translate	동. 번역하다	46
+unkind	형. 불친절한	46
+warn	동. 경고하다	46
+weigh	동. 무게가 나가다, 무게를 달다	46
+with 	전치사. ~와 함께, ~을 가지고 있는	46
+absolutely	부. 절대적으로	46
+alive	형. 살아있는	46
+awful	형. 무서운, 대단한	46
+bend	동. 구부리다, 굽히다	46
+blame	동. 비난하다 / 명. 비난	46
+broadcast	명. 방송 / 동. 방송하다	46
+careless	형. 부주의한	46
+elbow	명. 팔꿈치	46
+fare	명. 운임, 요금	46
+frank 	형. 솔직한	46
+gather	동. 모으다, 모이다	46
+graduate	동. 졸업하다	46
+historical	형. 역사의, 역사적인	46
+indeed	부. 정말, 사실은	46
+intelligent	형. 이해력 있는, 지적인, 총명한	46
+like 	전치사. ~처럼, ~을 닮아	46
+mix	동. 섞다, 섞이다	46
+rub	동. 문지르다, 비비다	46
+rubber	명. 고무 / 형. 고무로 된	46
+shore	명. (바다, 강, 호수 등의) 물가	46
+shut	동. 닫다	46
+situation	명. 상황, 위치	46
+soil	명. 흙, 땅	46
+steal	동. 훔치다	46
+suggest	동. 제안하다, 암시하다	46
+traditional	형. 전통적인	46
+tremble	동. 떨다	46
+turtle	명. 거북	46
+unlike	전치사. ~와 다르게, ~와 닮지 않은	46
+FALSE	형. 잘못된, 거짓의, 가짜의	46
